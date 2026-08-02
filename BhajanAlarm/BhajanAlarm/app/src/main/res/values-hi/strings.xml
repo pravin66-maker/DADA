@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">भजन अलार्म</string>
+
+    <string name="add_schedule">नया शेड्यूल जोड़ें</string>
+    <string name="edit_schedule">शेड्यूल बदलें</string>
+    <string name="now_playing">अभी बज रहा है</string>
+
+    <string name="no_schedules_yet">अभी कोई शेड्यूल नहीं है।\nनीचे \'+\' बटन दबाकर नया शेड्यूल जोड़ें।</string>
+    <string name="add_new_schedule">+ नया शेड्यूल जोड़ें</string>
+
+    <string name="select_song">गाना चुनें</string>
+    <string name="choose_song_button">फ़ाइल से गाना चुनें</string>
+    <string name="no_song_selected">कोई गाना चुना नहीं गया</string>
+
+    <string name="days_label">दिन चुनें</string>
+    <string name="day_mon">सोम</string>
+    <string name="day_tue">मंगल</string>
+    <string name="day_wed">बुध</string>
+    <string name="day_thu">गुरु</string>
+    <string name="day_fri">शुक्र</string>
+    <string name="day_sat">शनि</string>
+    <string name="day_sun">रवि</string>
+
+    <string name="time_label">समय चुनें</string>
+    <string name="save">सहेजें</string>
+    <string name="cancel">रद्द करें</string>
+    <string name="delete">हटाएं</string>
+    <string name="edit">बदलें</string>
+
+    <string name="play">चलाएं</string>
+    <string name="pause">रोकें</string>
+    <string name="stop">बंद करें</string>
+
+    <string name="language_gujarati">ગુજરાતી</string>
+    <string name="language_hindi">हिंदी</string>
+
+    <string name="please_select_song_error">कृपया पहले गाना चुनें</string>
+    <string name="please_select_day_error">कृपया कम से कम एक दिन चुनें</string>
+
+    <string name="exact_alarm_permission_title">अनुमति आवश्यक है</string>
+    <string name="exact_alarm_permission_message">समय पर भजन बजाने के लिए \"अलार्म और रिमाइंडर\" की अनुमति चालू करें।</string>
+    <string name="open_settings">सेटिंग्स खोलें</string>
+
+    <string name="notification_channel_name">भजन अलार्म बज रहा है</string>
+    <string name="notification_playing_text">भजन चल रहा है</string>
+
+    <string name="active">चालू</string>
+    <string name="inactive">बंद</string>
+</resources>

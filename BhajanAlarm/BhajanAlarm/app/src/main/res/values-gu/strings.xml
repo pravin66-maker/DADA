@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ભજન એલાર્મ</string>
+
+    <string name="add_schedule">નવું શેડ્યુલ ઉમેરો</string>
+    <string name="edit_schedule">શેડ્યુલ બદલો</string>
+    <string name="now_playing">હમણાં વાગી રહ્યું છે</string>
+
+    <string name="no_schedules_yet">હજુ કોઈ શેડ્યુલ નથી.\nનીચે \'+\' બટન દબાવીને નવું શેડ્યુલ ઉમેરો.</string>
+    <string name="add_new_schedule">+ નવું શેડ્યુલ ઉમેરો</string>
+
+    <string name="select_song">ગીત પસંદ કરો</string>
+    <string name="choose_song_button">ફાઈલમાંથી ગીત પસંદ કરો</string>
+    <string name="no_song_selected">કોઈ ગીત પસંદ કરેલ નથી</string>
+
+    <string name="days_label">દિવસ પસંદ કરો</string>
+    <string name="day_mon">સોમ</string>
+    <string name="day_tue">મંગળ</string>
+    <string name="day_wed">બુધ</string>
+    <string name="day_thu">ગુરુ</string>
+    <string name="day_fri">શુક્ર</string>
+    <string name="day_sat">શનિ</string>
+    <string name="day_sun">રવિ</string>
+
+    <string name="time_label">સમય પસંદ કરો</string>
+    <string name="save">સાચવો</string>
+    <string name="cancel">રદ કરો</string>
+    <string name="delete">ડિલીટ કરો</string>
+    <string name="edit">બદલો</string>
+
+    <string name="play">ચલાવો</string>
+    <string name="pause">થોભાવો</string>
+    <string name="stop">બંધ કરો</string>
+
+    <string name="language_gujarati">ગુજરાતી</string>
+    <string name="language_hindi">हिंदी</string>
+
+    <string name="please_select_song_error">કૃપા કરી પહેલા ગીત પસંદ કરો</string>
+    <string name="please_select_day_error">કૃપા કરી ઓછામાં ઓછો એક દિવસ પસંદ કરો</string>
+
+    <string name="exact_alarm_permission_title">પરવાનગી જરૂરી છે</string>
+    <string name="exact_alarm_permission_message">સમયસર ભજન વગાડવા માટે \"એલાર્મ અને રિમાઇન્ડર\"ની પરવાનગી ચાલુ કરો.</string>
+    <string name="open_settings">સેટિંગ્સ ખોલો</string>
+
+    <string name="notification_channel_name">ભજન એલાર્મ વાગી રહ્યું છે</string>
+    <string name="notification_playing_text">ભજન વાગી રહ્યું છે</string>
+
+    <string name="active">ચાલુ</string>
+    <string name="inactive">બંધ</string>
+</resources>

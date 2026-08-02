@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/cream_bg"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="24dp">
+
+    <TextView
+        android:id="@+id/nowPlayingTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/now_playing"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        android:textColor="@color/saffron_dark"
+        android:gravity="center" />
+
+    <TextView
+        android:id="@+id/songNameText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:textSize="24sp"
+        android:textColor="@color/text_dark"
+        android:gravity="center" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btnPlayPause"
+        android:layout_width="match_parent"
+        android:layout_height="90dp"
+        android:layout_marginTop="48dp"
+        android:textSize="26sp"
+        app:cornerRadius="45dp"
+        app:backgroundTint="@color/saffron" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btnStop"
+        android:layout_width="match_parent"
+        android:layout_height="90dp"
+        android:layout_marginTop="24dp"
+        android:text="@string/stop"
+        android:textSize="26sp"
+        app:cornerRadius="45dp"
+        app:backgroundTint="#B71C1C" />
+
+</LinearLayout>
